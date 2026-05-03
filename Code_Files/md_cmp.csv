@@ -1,0 +1,5 @@
+,backbone,params_M,auth_acc,tumor_acc,fake_type_acc,joint_acc,joint_f1_macro
+3,lcnet_075,2.0,0.9967,0.9678,,0.9709,0.971
+2,lcnet_050,1.52,0.9917,0.9481,,0.9502,0.9501
+1,mobilenetv3_small_075,1.81,0.995,0.9139,,0.9261,0.9255
+0,mobilenetv3_small_050,1.36,0.9925,0.9139,,0.9236,0.9229
